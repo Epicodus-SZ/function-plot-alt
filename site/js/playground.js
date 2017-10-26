@@ -12,7 +12,7 @@ functionPlot({
   // yAxis: { invert: true, },
   // xAxis: { invert: true, },
   data: [
-    { fn: '2^x', sampler: 'builtIn', graphType: 'polyline'}
+    { fn: '2x', sampler: 'builtIn', graphType: 'polyline' }
   ]
 })
 

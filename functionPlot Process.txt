@@ -1,0 +1,19 @@
+1. Node site.js - seems to create some generic documentation folders and files
+
+2. npm start = budo index.js:site/js/function-plot.js -- --standalone functionPlot"
+This tells Node to start budo server and load the file index.js.
+
+3. index.js 
+
+
+
+
+
+Info:
+y origin shows D attrib = M0,310L0,0 when at location top left
+y origin shows D attrib = M489.00000000000006,310L489.00000000000006,0 when at location top right
+y origin shows D attrib = M489.00000000000006,310L489.00000000000006,0 when at location bottom right
+y origin shows D attrib = M1.0000000000001215,310L1.0000000000001215,0
+
+
+xScale.domain()[0] = the left most visible position on the  X axis
